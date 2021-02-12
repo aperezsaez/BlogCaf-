@@ -285,3 +285,13 @@ img {
 .curso__info {
     font-size: 2rem;
 }
+
+/* Entrada */
+
+.entrada__imagen{
+    padding: 2rem 0;
+}
+
+.entrada__contenido{
+    paddding: 0 0 0 3rem;
+}
